@@ -1,0 +1,25 @@
+
+body{
+    
+    text-align: left; background-color: rgb(107, 208, 255); color: rgb(0, 6, 10);
+    border-style: solid;
+    font-size: 150%;
+    
+}
+img{
+
+    max-width:350px;
+    max-width:350px;
+    border-radius: 100%;
+    border: 2px solid black
+    
+}
+
+.esquerda{
+    width: 30%;
+	width: 370px;
+	float: left;
+	background-color: rgb(107, 208, 255);
+	color: #ffffff;
+}
+
